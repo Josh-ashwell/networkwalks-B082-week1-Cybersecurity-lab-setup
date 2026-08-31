@@ -1,12 +1,13 @@
 # networkwalks-B082-week1-Cybersecurity-lab-setup
 
-# Cybersecurity Laboratory Setup
+
 
 <div align="center">
 
 # 
 
-🔐 **Password Cracking With John The Ripper and NetworkWalks Tools**
+ **Cybersecurity Laboratory Setup**
+
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
