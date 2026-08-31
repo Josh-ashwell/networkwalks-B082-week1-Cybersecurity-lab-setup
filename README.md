@@ -26,7 +26,7 @@
 
 ## Installation and Configuration of Kali Linux on Virtual Box
 
-This document records the setup and configuration of my personal cybersecurity laboratory for the NetworkWalks B082 cybersecurity training programme.
+This document records the setup and configuration of my First week of personal cybersecurity laboratory for the NetworkWalks B082 cybersecurity internship programme.
 
 The purpose of this laboratory is to provide a controlled and isolated environment for learning cybersecurity concepts and performing authorised security exercises.
 
